@@ -1,7 +1,7 @@
 {
   "name": "Ekadantaya Tours & Travels",
   "short_name": "Ekadantaya",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#070b16",
   "theme_color": "#070b16",

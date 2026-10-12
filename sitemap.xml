@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: replace YOUR-DOMAIN.com with your real domain -->
+<!-- Site address — update if you move to your own domain -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-DOMAIN.com/</loc>
+    <loc>https://srkhatik.github.io/ekadantaya-tours-travels/</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>

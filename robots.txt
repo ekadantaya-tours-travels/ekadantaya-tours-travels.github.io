@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# TODO: replace YOUR-DOMAIN.com with your real domain
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+# Site address — update if you move to your own domain
+Sitemap: https://srkhatik.github.io/ekadantaya-tours-travels/sitemap.xml
