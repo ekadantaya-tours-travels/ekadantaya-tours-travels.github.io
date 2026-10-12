@@ -84,3 +84,4 @@ fare = chargeable km × rate
      + extra hours × extraHourRate
      + tolls & parking (entered by the customer)
 ```
+
