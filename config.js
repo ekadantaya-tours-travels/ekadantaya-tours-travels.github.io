@@ -39,8 +39,8 @@ window.SITE_CONFIG = {
     mapEmbedUrl: null,                       // Google Maps "Embed a map" src URL (optional)
 
     social: {
-      instagram: "https://www.instagram.com/ekadantaya9717/",
-      instagramHandle: "@ekadantaya9717",
+      instagram: "https://www.instagram.com/ekadantayatours/",
+      instagramHandle: "@ekadantayatours",
       facebook: null,          // paste your Facebook page link, e.g. "https://www.facebook.com/yourpage"
       youtube: null
     }

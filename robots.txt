@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Site address — update if you move to your own domain
-Sitemap: https://srkhatik.github.io/ekadantaya-tours-travels/sitemap.xml
+Sitemap: https://ekadantaya-tours-travels.github.io/sitemap.xml
